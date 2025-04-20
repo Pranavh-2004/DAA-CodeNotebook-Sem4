@@ -53,4 +53,4 @@ This repository is **not intended for submission or official use**. It is a pers
 
 For excellent DAA notes and references, check out:
 
-- [Anshul Paruchuri's Notes and Code Examples on DAA](https://pesunotesproject.notion.site/Operating-Systems-1776b23e86368183803cee45ce188f21)
+- [Anshul Paruchuri's Notes and Code Examples on DAA](https://pesunotesproject.notion.site/Design-and-Analysis-of-Algorithms-1776b23e863681479a77da435d5e1849)
